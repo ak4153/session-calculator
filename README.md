@@ -2,5 +2,5 @@
 simple 12 month table in which you can add and remove elements.
 Demo 
 <html>
-<a  href = "hoc-bushes.surge.sh">Demo Web site</a>
+<a  href = "http://hoc-bushes.surge.sh">Demo Web site</a>
 </html>
