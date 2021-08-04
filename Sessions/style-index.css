@@ -1,0 +1,29 @@
+table, th, td {
+    border: 1px solid black;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+  }
+  th {
+    text-align: left;
+  }
+  table {
+    border-spacing: 5px;
+  }
+  #head{
+      text-align: center;
+  }
+
+  #sessionTable tr:nth-child(even) {
+    background-color: #eee;
+  }
+  #sessionTable tr:nth-child(odd) {
+    background-color: #fff;
+  }
+  html{
+    background-color: darkolivegreen;
+}

@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: darkblue;
+}
+html{
+    background-color: darkolivegreen;
+}
+#sessionTypeDiv{
+    border-color: rgb(12, 12, 12);
+    border-style: solid;
+    width: 100%;
+}
+#addButtonContainer{
+    height: 50px;
+    position: relative;
+
+}
+#verticalAddButtonContainer{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
